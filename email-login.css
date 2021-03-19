@@ -101,10 +101,29 @@ div.row{
 }
 .email-body{
     margin:30px;
+    padding-top: 40px;
+    color: white;
 }
 .form-group{
     margin:30px;
 }
-
-
-
+.email-actions{
+    float:right;
+    color:white;
+    padding: 10px;
+}
+.form-control{
+    background-color: transparent;
+}
+.reply{
+    float:right;
+    padding: 0%;
+    margin-right: 30px;
+    width: 60px;
+    margin-bottom: 20px;
+}
+.attachment{
+    color: white;
+    margin-left:20px;
+    
+}
